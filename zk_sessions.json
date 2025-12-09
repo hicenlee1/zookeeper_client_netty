@@ -1,0 +1,11 @@
+[ {
+  "alias" : "本地ZooKeeper",
+  "host" : "localhost",
+  "port" : "2181",
+  "default" : false
+}, {
+  "alias" : "zk_hy_test",
+  "host" : "10.148.12.23",
+  "port" : "2181",
+  "default" : false
+} ]

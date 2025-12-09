@@ -1,0 +1,1 @@
+[{"name":"test","host":"10.137.152.158","port":6379,"password":"","clusterNodes":[],"cluster":false},{"name":"cluster-test","host":"localhost","port":6379,"password":"","clusterNodes":["10.137.152.156:6379","10.137.152.157:6379","10.137.152.158:6379"],"cluster":true}]
